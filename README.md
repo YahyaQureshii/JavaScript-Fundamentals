@@ -1,4 +1,4 @@
-** JavaScript Learning Repository**
+                                                                    JavaScript Learning Repository
 
 📌 About This Repository
 This repository is created to document my journey of learning JavaScript. It includes:
