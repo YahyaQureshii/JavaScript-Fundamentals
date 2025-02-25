@@ -105,3 +105,25 @@ const fun1 = (x)=>{
 
 fun1(43)
 fun1(50)
+
+//strings
+console.log("Access the strings");
+let j="yahya";
+console.log(j[0]);
+console.log(j[1]);
+console.log(j[2]);
+console.log(j[3]);
+console.log(j[4]);
+
+console.log("finding length");
+console.log(j.length)
+
+let my_name="yahya";
+let my_frnd="zaka";
+
+console.log(`my name is ${my_name} and my frnd is ${my_frnd}`);
+
+
+// upper & lower case convertion
+console.log(my_name.toUpperCase());
+console.log(my_name.toLowerCase());
